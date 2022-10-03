@@ -26,7 +26,8 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Screenshot
 
-![alt text](./screenshot_radnompassword_.png)
+![alt text](./screenshot_randompassword.png)
 
 ## Deployed Application
 
+https://shawnawhite3699.github.io/random-password-generator/
