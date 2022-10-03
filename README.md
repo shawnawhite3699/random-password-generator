@@ -1,4 +1,4 @@
-# random-password-generator
+# Challenge 3: Random Password Generator
 
 ## User Story
 
@@ -26,7 +26,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Screenshot
 
-![alt text](./Assets/screenshot_radnompassword_.png)
+![alt text](./screenshot_radnompassword_.png)
 
 ## Deployed Application
 
