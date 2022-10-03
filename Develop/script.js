@@ -42,7 +42,7 @@ function writePassword() {
         if(confirm("If you would like to include special characters/symbols in your password, click OK. Otherwise, click Cancel.")){
             Array.prototype.push.apply(characters, charSpecial);
         }
-
+//Validation to ensure at least 1 character type selected
         if(characters.length===0){
             alert("You must choose at least one character type to generate a password.\nPlease start over.");
         }
